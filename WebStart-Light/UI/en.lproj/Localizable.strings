@@ -1,0 +1,17 @@
+/*******************************************************************************
+ * Copyright (c) 2011, Jean-David Gadina <macmade@eosgarden.com>
+ * All rights reserved
+ ******************************************************************************/
+ 
+/* $Id$ */
+
+/*!
+ * @file        
+ * @copyright   eosgarden 2011 - Jean-David Gadina <macmade@eosgarden.com>
+ * @abstract    ...
+ */
+
+"ApacheStart" = "Start Apache";
+"ApacheStop"  = "Stop Apache";
+"MySQLStart"  = "Start MySQL";
+"MySQLStop"   = "Stop MySQL";
