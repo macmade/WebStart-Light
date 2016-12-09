@@ -1,5 +1,5 @@
 WebStart-Light
-========
+==============
 
 [![Build Status](https://img.shields.io/travis/macmade/WebStart-Light.svg?branch=master&style=flat)](https://travis-ci.org/macmade/WebStart-Light)
 [![Issues](http://img.shields.io/github/issues/macmade/WebStart-Light?style=flat)](https://github.com/macmade/WebStart-Light/issues)
